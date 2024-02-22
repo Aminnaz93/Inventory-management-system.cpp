@@ -1,0 +1,2 @@
+E battery 20 2 2
+C Gucci 1000 2 
